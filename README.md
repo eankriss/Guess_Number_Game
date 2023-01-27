@@ -21,7 +21,7 @@ Guess Number is out of range:
 
 
 
-Guess Number is in number range but it is incorrect:
+Guess Number is in range but it is incorrect:
 ![Guess Number is incorrect but it is in number range](https://user-images.githubusercontent.com/108510745/215044674-76a9cc38-992b-4bfa-b0b7-06c930c1d887.png)
 
 
